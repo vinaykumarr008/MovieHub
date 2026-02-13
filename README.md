@@ -37,13 +37,13 @@ Manage your personal movie collection with Redux-powered favorites system
 
 ### ✨ Features
 ✅ Core Features
-Feature	Description	Status
-Browse Movies	View popular, top rated, upcoming, and now playing movies	✅
-Search	Real-time movie search with debouncing	✅
-Movie Details	Comprehensive movie information page	✅
-Favorites	Add/remove movies to personal collection	✅
-Persistent State	Favorites maintained via Redux store	✅
-Responsive Design	Mobile-first, works on all devices	✅
+✅ Feature	Description	Status
+✅ Browse Movies	View popular, top rated, upcoming, and now playing movies	
+✅ Search	Real-time movie search with debouncing	
+✅ Movie Details	Comprehensive movie information page	
+✅ Favorites	Add/remove movies to personal collection	
+✅ Persistent State	Favorites maintained via Redux store	
+✅ Responsive Design	Mobile-first, works on all devices	
 
 
 ### 🔧 Technical Features
