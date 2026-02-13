@@ -1,0 +1,19 @@
+.footer {
+  background: #1a1a2e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  border-top: 2px solid #ff6b6b;
+}
+
+.footer-sub {
+  color: #aaa;
+  margin: 5px 0;
+}
+
+.footer-note {
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 10px;
+}

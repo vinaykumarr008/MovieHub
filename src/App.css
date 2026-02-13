@@ -1,0 +1,54 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0f0f23;
+  color: white;
+  min-height: 100vh;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.not-found {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.not-found h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ff6b6b;
+}
+
+.not-found p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  color: #aaa;
+}
+
+.not-found a {
+  background: #1e90ff;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.not-found a:hover {
+  background: #007bff;
+}
