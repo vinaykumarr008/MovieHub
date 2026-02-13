@@ -75,20 +75,52 @@ Environment Variables - Secure API key management
 
 ### 🛠️ Tech Stack
 Frontend
+
 Technology	Version	Purpose
+
 React	18.2.0	UI library
+
+
 React Router DOM	6.21.1	Navigation & routing
+
+
 Redux Toolkit	2.0.1	State management
+
+
 React Redux	9.0.4	React-Redux bindings
+
+
 Axios	1.6.2	HTTP client
+
+
 CSS3	-	Styling
+
+
 APIs & Services
+
+
 Service	Purpose
+
+
 TMDB API	Movie database provider
+
+
 Netlify	Hosting & continuous deployment
+
+
 Development Tools
+
+
 Tool	Usage
+
+
 Create React App	Project scaffolding
+
+
 ESLint	Code linting
+
+
 Git	Version control
+
+
 npm	Package management
