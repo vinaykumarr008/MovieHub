@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+🎬 MovieHub - React Movie Discovery Application
+https://via.placeholder.com/1200x400/0f0f23/ff6b6b?text=MovieHub+-+Discover+Your+Next+Favorite+Movie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"> <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Redux_Toolkit-2.0.1-764ABC?style=for-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/React_Router-6.21.1-CA4245?style=for-the-badge&logo=react-router" /> <img src="https://img.shields.io/badge/Axios-1.6.2-5A29E4?style=for-the-badge&logo=axios" /> <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify" /> </p>
 
-## Available Scripts
+🎯 Overview
+MovieHub is a full-featured movie discovery web application that allows users to browse thousands of movies, search for specific titles, view detailed information, and curate a personal favorites collection. Built with modern React practices including functional components, hooks, Redux for state management, and React Router for navigation.
 
-In the project directory, you can run:
+### Purpose: Demonstrate proficiency in:
 
-### `npm start`
+React component architecture
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Global state management with Redux Toolkit
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Client-side routing with React Router
 
-### `npm test`
+Third-party API integration
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Responsive UI design
 
-### `npm run build`
+Live URL: https://moviehub-demo.netlify.app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📸 Screenshots
+### 🏠 Home Page
+https://via.placeholder.com/800x450/1a1a2e/ffffff?text=Home+Page+-+Popular+Movies+Grid
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Browse popular movies with search functionality
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎥 Movie Details Page
+https://via.placeholder.com/800x450/16213e/ffffff?text=Movie+Details+Page+-+Full+Information
 
-### `npm run eject`
+View comprehensive movie information including synopsis, ratings, genres, and similar recommendations
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### ❤️ Favorites Page
+https://via.placeholder.com/800x450/0f3460/ffffff?text=Favorites+Page+-+Personal+Collection
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Manage your personal movie collection with Redux-powered favorites system
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### ✨ Features
+✅ Core Features
+Feature	Description	Status
+Browse Movies	View popular, top rated, upcoming, and now playing movies	✅
+Search	Real-time movie search with debouncing	✅
+Movie Details	Comprehensive movie information page	✅
+Favorites	Add/remove movies to personal collection	✅
+Persistent State	Favorites maintained via Redux store	✅
+Responsive Design	Mobile-first, works on all devices	✅
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### 🔧 Technical Features
+Dynamic Routing - Parameterized routes for individual movies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Global State - Redux Toolkit with slice architecture
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Error Handling - Graceful fallbacks for API failures
 
-### Code Splitting
+Loading States - Skeleton loaders during data fetch
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+404 Page - Custom not-found handling
 
-### Analyzing the Bundle Size
+Environment Variables - Secure API key management
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🛠️ Tech Stack
+Frontend
+Technology	Version	Purpose
+React	18.2.0	UI library
+React Router DOM	6.21.1	Navigation & routing
+Redux Toolkit	2.0.1	State management
+React Redux	9.0.4	React-Redux bindings
+Axios	1.6.2	HTTP client
+CSS3	-	Styling
+APIs & Services
+Service	Purpose
+TMDB API	Movie database provider
+Netlify	Hosting & continuous deployment
+Development Tools
+Tool	Usage
+Create React App	Project scaffolding
+ESLint	Code linting
+Git	Version control
+npm	Package management
