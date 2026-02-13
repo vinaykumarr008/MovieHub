@@ -17,21 +17,21 @@ Third-party API integration
 
 Responsive UI design
 
-Live URL: https://movie-hub-one-orcin.vercel.app/
+### 🔗 Live Demo: [View Live Demo](https://movie-hub-one-orcin.vercel.app/)
 
 ### 📸 Screenshots
 ### 🏠 Home Page
-home.png
+![Home](home.png)
 
 Browse popular movies with search functionality
 
 ### 🎥 Movie Details Page
-browse.png
+![Browse](browse.png)
 
 View comprehensive movie information including synopsis, ratings, genres, and similar recommendations
 
 ### ❤️ Favorites Page
-favorite.png
+![Favorite](favorite.png)
 
 Manage your personal movie collection with Redux-powered favorites system
 
