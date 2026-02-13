@@ -21,17 +21,17 @@ Live URL: https://movie-hub-one-orcin.vercel.app/
 
 ### 📸 Screenshots
 ### 🏠 Home Page
-https://via.placeholder.com/800x450/1a1a2e/ffffff?text=Home+Page+-+Popular+Movies+Grid
+home.png
 
 Browse popular movies with search functionality
 
 ### 🎥 Movie Details Page
-https://via.placeholder.com/800x450/16213e/ffffff?text=Movie+Details+Page+-+Full+Information
+browse.png
 
 View comprehensive movie information including synopsis, ratings, genres, and similar recommendations
 
 ### ❤️ Favorites Page
-https://via.placeholder.com/800x450/0f3460/ffffff?text=Favorites+Page+-+Personal+Collection
+favorite.png
 
 Manage your personal movie collection with Redux-powered favorites system
 
