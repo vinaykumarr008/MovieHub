@@ -125,7 +125,7 @@ Git	Version control
 
 npm	Package management
 
-### Data Flow
+### 📊 Data Flow
 User navigates to /movies
 
 Movies component fetches data from TMDB API via Axios
