@@ -124,3 +124,27 @@ Git	Version control
 
 
 npm	Package management
+
+### Data Flow
+User navigates to /movies
+
+Movies component fetches data from TMDB API via Axios
+
+Response data stored in local useState
+
+Data passed as props to MovieCard components
+
+User clicks "Add to Favorites" → Redux action dispatched
+
+Redux updates global state → All subscribed components re-render
+
+Favorites count updates in Header, Favorites page shows new movies
+
+### 📥 Installation
+Prerequisites
+Node.js (v16 or higher)
+
+npm (v8 or higher)
+
+TMDB API key
+
