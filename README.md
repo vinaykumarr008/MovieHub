@@ -1,5 +1,4 @@
-🎬 MovieHub - React Movie Discovery Application
-https://via.placeholder.com/1200x400/0f0f23/ff6b6b?text=MovieHub+-+Discover+Your+Next+Favorite+Movie
+# 🎬 MovieHub - React Movie Discovery Application
 
 <p align="center"> <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Redux_Toolkit-2.0.1-764ABC?style=for-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/React_Router-6.21.1-CA4245?style=for-the-badge&logo=react-router" /> <img src="https://img.shields.io/badge/Axios-1.6.2-5A29E4?style=for-the-badge&logo=axios" /> <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify" /> </p>
 
@@ -18,7 +17,7 @@ Third-party API integration
 
 Responsive UI design
 
-Live URL: https://moviehub-demo.netlify.app
+Live URL: https://movie-hub-one-orcin.vercel.app/
 
 ### 📸 Screenshots
 ### 🏠 Home Page
